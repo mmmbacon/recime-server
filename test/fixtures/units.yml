@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  factor: 9.99
+  longname: MyString
+  shortname: MyString
+
+two:
+  factor: 9.99
+  longname: MyString
+  shortname: MyString
